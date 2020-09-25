@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Latest Post
 - id: readMore
@@ -13,7 +14,7 @@
 - id: all
   translation: All
 - id: about
-  translation: About Us
+  translation: About Me
 - id: services
   translation: Service
 - id: portfolio
